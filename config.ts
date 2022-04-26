@@ -3,9 +3,9 @@
 
 // Set 'wallet' to undefined if you wish to disable the Tipping feature
 export const DETAILS = {
-  name: 'Eto',
-  header: 'Eto.eth',
-  headerlink: 'https://twitter.com/etoeth',
+  name: 'Weedzy',
+  header: 'Weedzykun.eth',
+  headerlink: 'https://twitter.com/Weedzykun',
   wallet: '0x239b88b1be00f539c8200c571d82ca13c661faf3'
 }
 
@@ -28,7 +28,7 @@ import btn_medium from './images/btn_medium.png'
 // To include a footer icon: Give 'link' a value
 // To include a button: Give 'button' your imported image value
 export const TWITTER = {
-  link: 'https://twitter.com/etoeth',
+  link: 'https://twitter.com/Weedzykun',
   button: btn_twitter
 }
 
